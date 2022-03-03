@@ -22,6 +22,7 @@ Makes: about 1 cup of jam.
 | 1 drop | lemon essential oil | *optional; be very careful with this, it's potent* |
 | 1/8 tsp | xanthan gum | *optional* |
 
+
 ### Instructions
 
 - In a small saucepan, combine the blueberries, vinegar, maple syrup, and spices.
