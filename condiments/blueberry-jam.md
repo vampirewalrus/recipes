@@ -21,6 +21,7 @@ Makes: about 1 cup of jam.
 | 1/4 tsp | cinnamon and/or mixed spices | *optional; I use ~1/8 tsp cinnamon, ~1/16 tsp cloves, ~1/16 tsp ginger, and one grate of fresh nutmeg* |
 | 1 drop | lemon essential oil | *optional; be very careful with this, it's potent* |
 | 1/8 tsp | xanthan gum | *optional* |
+| 1/8 tsp | salt | *optional* |
 
 
 ### Instructions
