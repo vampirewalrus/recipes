@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Blueberry-maple jam
-permalink: /condiments/blueberry-jam/
 ---
 
 This is a very simple low-sugar jam (well, technically compote), with only three essential ingredients: blueberries (frozen is fine!), maple syrup, and apple cider vinegar.  You can add a pinch of xanthan gum to thicken it, as well, and I also add some other aromatic ingredients (spices, vanilla, and lemon oil).
