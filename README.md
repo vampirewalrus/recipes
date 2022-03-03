@@ -1,2 +1,2 @@
-# recipes
-Simple recipe site
+# Recipes from the Vampire Walrus
+
