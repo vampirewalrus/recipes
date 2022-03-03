@@ -2,7 +2,7 @@
 
 This is a very simple low-sugar jam (well, technically compote), with only three essential ingredients: blueberries (frozen is fine!), maple syrup, and apple cider vinegar.  You can add a pinch of xanthan gum to thicken it, as well, and I also add some other aromatic ingredients (spices, vanilla, and lemon oil).
 
-This recipe works with almost any frozen fruit.  The best so far have been wild blueberries from Atlantic Canada, Quebec, or Maine; most of the wild blueberry crop is frozen so check the freezer section.  This is also great as a hot pepper jam!  Just add fresh hot peppers to your level of tolerance, or a bit of hot sauce.  Note that the heat of fresh peppers will start to mellow after a few days.
+This recipe works with almost any frozen fruit, but the thickness will depend on the amount of natural pectin in the fruit, so you may need to adjust the xanthan gum to accommodate.  The absolute best so far have been wild blueberries from Atlantic Canada, Quebec, or Maine; most of the wild blueberry crop is frozen so check the freezer section.  This is also great as a hot pepper jam!  Just add fresh hot peppers to your level of tolerance.
 
 Makes: about 1 cup of jam.
 
